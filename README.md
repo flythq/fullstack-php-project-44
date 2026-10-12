@@ -1,38 +1,22 @@
-# Игры разума (JS)
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/Dmitry-ekb/fullstack-php-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Dmitry-ekb/fullstack-php-project-44/actions)
 
-[![hexlet-check](https://github.com/flythq/fullstack-php-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/flythq/fullstack-php-project-44/actions)
+## Demo game brain-even
 
-Погрузитесь в непростую экосистему JavaScript, научитесь настраивать рабочее окружение. Подружитесь с линтером (анализатором качества кода) и менеджером зависимостей npm. Поймёте, чем git отличается от GitHub, поработаете с внешними репозиториями. Получите опыт построения архитектуры полноценного приложения и написания чистого кода.
+[![asciicast](https://asciinema.org/a/TwZIvYq5dxe2aYSZ5WSZmdRkH.svg)](https://asciinema.org/a/TwZIvYq5dxe2aYSZ5WSZmdRkH)
 
-Учебный проект Хекслета: https://ru.hexlet.io/programs/fullstack-php
-Как это должно работать: https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
+## Demo game brain-calc
 
-## Стек
+[![asciicast](https://asciinema.org/a/frHFQb0Dc7mFSb3u7mAozc3PO.svg)](https://asciinema.org/a/frHFQb0Dc7mFSb3u7mAozc3PO)
 
-- JavaScript
+## Demo game brain-gcd
 
-## Установка
+[![asciicast](https://asciinema.org/a/szP5w1ZHqDU8A0InekvxQMns5.svg)](https://asciinema.org/a/szP5w1ZHqDU8A0InekvxQMns5)
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
+## Demo game brain-progression
 
-```bash
-git clone https://github.com/flythq/fullstack-php-project-44.git
-cd fullstack-php-project-44
-```
+[![asciicast](https://asciinema.org/a/SkYvyXpIVwNENrLATT9H1JT1F.svg)](https://asciinema.org/a/SkYvyXpIVwNENrLATT9H1JT1F)
 
-## Использование
+## Demo game brain-prime
 
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-
----
-
-<details>
-<summary>Автоматические тесты Хекслета</summary>
-
-Тесты запускаются на каждый коммит. За запуск отвечает файл `.github/workflows/hexlet-check.yml` — не удаляйте и не переименовывайте ни его, ни репозиторий.
-
-</details>
-
-## О Хекслете
-
-[Хекслет](https://ru.hexlet.io/) — школа программирования: авторские программы обучения с практикой, поддержкой наставников и реальными проектами, которые остаются в резюме. Этот репозиторий — один из таких проектов.
+[![asciicast](https://asciinema.org/a/hIneltjDqB1fjDEMJXYOPwf0R.svg)](https://asciinema.org/a/hIneltjDqB1fjDEMJXYOPwf0R)
